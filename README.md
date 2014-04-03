@@ -2,7 +2,7 @@ hmc-tmg
 =======
 
 
-MATLAB implementation of the algorithm introduced in "Exact Hamiltonian Monte Carlo Sampler for Truncated Multivariate Gaussians" by Ari Pakman and Liam Paninski. 
+MATLAB implementation of the algorithm introduced in "Exact Hamiltonian Monte Carlo for Truncated Multivariate Gaussians" by Ari Pakman and Liam Paninski. 
 
 Paper available at http://arxiv.org/abs/1208.4118
 
